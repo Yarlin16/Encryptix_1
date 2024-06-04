@@ -1,3 +1,6 @@
+Certainly! Here is the updated documentation with the additional point about label encoding for categorical variables:
+
+---
 
 # Titanic Survival Prediction
 
@@ -30,20 +33,23 @@ The project is organized as follows:
    - Handling missing values.
    - Encoding categorical variables.
 
-2. **Exploratory Data Analysis (EDA):**
+2. **Label Encoding:**
+   - Encoding categorical variables such as sex and embarked.
+
+3. **Exploratory Data Analysis (EDA):**
    - Visualizing the relationship between features and survival.
 
-3. **Feature Engineering:**
+4. **Feature Engineering:**
    - Creating new features to improve model performance.
 
-4. **Model Building and Evaluation:**
+5. **Model Building and Evaluation:**
    - Training various machine learning models.
    - Evaluating model performance using metrics such as accuracy and ROC-AUC.
 
-5. **Prediction:**
+6. **Prediction:**
    - Using the trained model to predict the survival of new passengers.
 
-6. **Visualization:**
+7. **Visualization:**
    - Presenting the results through graphs and charts for better understanding and interpretation.
 
 ## Libraries Used
