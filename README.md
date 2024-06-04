@@ -5,7 +5,7 @@
 This project uses machine learning to predict the survival of passengers on the Titanic based on various features. The model is trained on the Titanic dataset, which includes information such as passenger class, sex, age, number of siblings/spouses aboard, number of parents/children aboard, fare, and port of embarkation.
 
 ## Dataset Overview
-The dataset used in this project is the [Kaggle Titanic dataset](https://www.kaggle.com/c/titanic). It contains information about the passengers aboard the Titanic.
+The dataset used in this project is the [Kaggle Titanic dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset). It contains information about the passengers aboard the Titanic.
 
 - **Number of Instances:** 891
 - **Number of Features:** 12
