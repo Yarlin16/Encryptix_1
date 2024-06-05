@@ -1,6 +1,4 @@
-Certainly! Here is the updated documentation with the additional point about label encoding for categorical variables:
 
----
 
 # Titanic Survival Prediction
 
